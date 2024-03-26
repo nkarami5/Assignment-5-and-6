@@ -3179,5 +3179,18 @@
         "ta": false,
         "TA": false,
         "studentNum": 265
+    },
+    {
+        "firstName": "naghme",
+        "lastName": "karami",
+        "email": "nkarami5@myseneca.ca",
+        "addressStreet": "206 Murray Drive",
+        "addressCity": "Aurora",
+        "addressProvince": "on",
+        "ta": true,
+        "enrollmentStatus": "Full Time",
+        "course": "1",
+        "TA": false,
+        "studentNum": 266
     }
 ]
